@@ -19,7 +19,7 @@ The updated performance values are:
 | Test Set | 89.3% | 93.8% | 83.3% | 94.5% |
 | Independent Test Set | 75.0% | 88.9% | 57.1% | 62.7% |
 
-### 3. `demegraphic_EDSS_study.zip`
+### 3. `demographic_EDSS_study_anonymized.zip`
 This file contains the demographic, EDSS correlation, and disease-duration subgroup analyses. The analyses include:
 
 - Correlation between extracted pupillography features and EDSS
