@@ -6,7 +6,7 @@ This repository contains the anonymized code, analysis outputs, and supplementar
 
 ## Repository Contents
 
-### 1. `ms_pupillography_ml_completed_updated2.zip`
+### 1. `ms_pupillography_ml_completed.zip`
 This file contains the main machine learning pipeline, including feature extraction, model training, evaluation scripts, and publication-related figures.
 
 ### 2. `Clinical_Validation_Results_Complete.zip`
